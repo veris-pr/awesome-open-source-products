@@ -7,4 +7,13 @@
   - Managed - https://taiga.io/
 - Redmine (rails, ruby) - https://github.com/redmine/redmine
 
-## 
+## Monitoring
+
+### Infrastructure monitoring
+- Nagios (c/c++) https://github.com/NagiosEnterprises/nagioscore
+- Zabbix (php) https://git.zabbix.com/projects/zbx/repos/zabbix/browse
+- Icinga (c/c++) https://github.com/Icinga/icinga2
+- Netdata (c/c++) https://github.com/netdata/netdata
+- Shinken (python) https://github.com/naparuba/shinken
+- CheckML (c/c++/python) https://github.com/tribe29/checkMK/
+
