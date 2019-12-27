@@ -17,3 +17,5 @@
 - Shinken (python) https://github.com/naparuba/shinken
 - CheckML (c/c++/python) https://github.com/tribe29/checkMK/
 
+## Wiki
+- Outline (node.js, react) https://github.com/outline/outline
