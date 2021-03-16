@@ -19,3 +19,9 @@
 
 ## Wiki
 - Outline (node.js, react) https://github.com/outline/outline
+
+## Customer Support
+- Papercups (Elixir) https://github.com/papercups-io/papercups
+  - Managed Version - https://papercups.io/
+- Chatwood (ruby) https://github.com/chatwoot/chatwoot
+  - Managed Version - https://www.chatwoot.com/
