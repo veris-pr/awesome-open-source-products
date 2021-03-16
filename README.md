@@ -20,8 +20,12 @@
 ## Wiki
 - Outline (node.js, react) https://github.com/outline/outline
 
-## Customer Support
+## Customer Support/ Chat
 - Papercups (Elixir) https://github.com/papercups-io/papercups
   - Managed Version - https://papercups.io/
 - Chatwood (ruby) https://github.com/chatwoot/chatwoot
   - Managed Version - https://www.chatwoot.com/
+
+## Analytics/ Excel
+- Baserow (python) (https://gitlab.com/bramw/baserow)
+  - Managed Version - https://baserow.io/
